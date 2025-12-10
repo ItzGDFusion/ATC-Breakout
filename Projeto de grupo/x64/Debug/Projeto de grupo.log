@@ -1,0 +1,9 @@
+﻿  main.cpp
+  paddle.cpp
+C:\Users\user\Downloads\Projeto de grupo\Projeto de grupo\INTERFACE.cpp(46,9): error C3861: 'drawFrame': identificador não encontrado
+  (compilando o arquivo fonte 'main.cpp')
+  
+C:\Users\user\Downloads\Projeto de grupo\Projeto de grupo\INTERFACE.cpp(49,64): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  (compilando o arquivo fonte 'main.cpp')
+  
+  Gerando Código...
